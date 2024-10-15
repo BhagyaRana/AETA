@@ -1,10 +1,8 @@
 # AETA - Automated Earnings Transcript Analyzer
 
-Check Google Collab for Real Time Code - https://colab.research.google.com/drive/1GVml206ESH20D323dz5XdY2B1n54yyzj?usp=sharing
-
-# AETA - Automated Earnings Transcript Analyzer
-
 AETA is a Python-based tool that automates the process of analyzing earnings call transcripts for wealth management companies. It captures relevant commentary, identifies strategic priorities, and provides a peer perspective on quarterly financial performance.
+
+Check Google Collab for Real Time Code - https://colab.research.google.com/drive/1GVml206ESH20D323dz5XdY2B1n54yyzj?usp=sharing
 
 ## Features
 
