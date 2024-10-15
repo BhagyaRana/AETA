@@ -51,8 +51,8 @@ def send_summary_email(company: str, year: str, quarter: str):
     # Email details
 
     # Fetching sender email and password from .env file
-    sender_email = "bhagyarana1002@gmail.com"
-    sender_password = "lmab djnb qcdu pabq"
+    sender_email = "sender_email"
+    sender_password = "sender_password"
 
     # Take input from user for stakeholder email
     # stakeholder_email = input("Enter the stakeholder email: ")
