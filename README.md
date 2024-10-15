@@ -2,7 +2,7 @@
 
 AETA is a Python-based tool that automates the process of analyzing earnings call transcripts for wealth management companies. It captures relevant commentary, identifies strategic priorities, and provides a peer perspective on quarterly financial performance.
 
-![Flowchart](images/flowchart.png)
+![Flowchart](images/flowchart.jpg)
 
 ![Scheduler](images/scheduler.png)
 
